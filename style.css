@@ -1,0 +1,14 @@
+html {
+    font-size: 30px
+  }
+  body{
+    font-size: 20px;  
+  }
+  .box_1 {
+    background-color: green;
+    width: 50vw;
+  }
+  .box_2 {
+    background-color: green;
+    width: 30em;
+  }
